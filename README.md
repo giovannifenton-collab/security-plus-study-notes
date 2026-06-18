@@ -1,2 +1,2 @@
-# security-plus-study-notes
+# Security-Plus-Study-Notes
 Security + Notes 
